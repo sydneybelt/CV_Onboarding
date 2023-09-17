@@ -5,13 +5,13 @@ Hi everyone! Welcome to the team. Please go through onboarding sections that you
 
 Tutorials:
 1. [Background Information](./Introduction/background_info)
-2. [Introduction to Computer Science](./cs_intro)
-3. [Introduction to Computer Vision](./cv_intro)
-4. [Introduction to Machine Learning](./ml_intro)
-5. [Introduction to Julia Programming](./julia_intro)
-6. [Computer Vision Techniques](./cv_advanced)
-7. [Advanced Machine Learning](./ml_advanced)
-8. [Using Julia for ARV](./julia_advanced)
+2. [Introduction to Computer Science](./Introduction/cs_intro)
+3. [Introduction to Computer Vision](./Introduction/cv_intro)
+4. [Introduction to Machine Learning](./Machine Learning/ml_intro)
+5. [Introduction to Julia Programming](./Julia/julia_intro)
+6. [Computer Vision Techniques](./CV Techniques/cv_advanced)
+7. [Advanced Machine Learning](./Machine Learning/ml_advanced)
+8. [Using Julia for ARV](./Julia/julia_advanced)
 9. Integration 
 
 Projects / Research: 
