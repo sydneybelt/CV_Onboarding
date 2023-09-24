@@ -1,1 +1,14 @@
+This will take you through some useful commands that we will need for building, running, and comparing our ML models. 
+
+-----------------------------------------------------------------------------------------------------------------------
+
+CUDA: PyTorch makes it easy to compute operations using the GPU. This helps with speed, as GPUs are designed to perform 
+parallel computations, which can lead to a significant speedup in the training of machine learning models. It also helps 
+with memory and power. 
+
+if torch.cuda.is_available():
+  print('You have the GPU available!\n')
+  device = 'cuda:0'
+
+-----------------------------------------------------------------------------------------------------------------------
 
