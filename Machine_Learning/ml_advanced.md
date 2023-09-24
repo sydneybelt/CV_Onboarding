@@ -7,8 +7,3 @@ parallel computations, which can lead to a significant speedup in the training o
 with memory and power. 
 
 if torch.cuda.is_available(): device = 'cuda:0'
-
------------------------------------------------------------------------------------------------------------------------
-
-Example Machine Learning Model: 
-Example Convolutional Neural Network: 
