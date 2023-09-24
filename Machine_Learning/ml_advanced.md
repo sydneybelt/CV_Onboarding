@@ -6,9 +6,7 @@ CUDA: PyTorch makes it easy to compute operations using the GPU. This helps with
 parallel computations, which can lead to a significant speedup in the training of machine learning models. It also helps 
 with memory and power. 
 
-if torch.cuda.is_available():
-  print('You have the GPU available!\n')
-  device = 'cuda:0'
+if torch.cuda.is_available(): device = 'cuda:0'
 
 -----------------------------------------------------------------------------------------------------------------------
 
