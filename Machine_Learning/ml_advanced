@@ -12,3 +12,5 @@ if torch.cuda.is_available():
 
 -----------------------------------------------------------------------------------------------------------------------
 
+Example Machine Learning Model: 
+Example Convolutional Neural Network: 
