@@ -15,6 +15,6 @@ Tutorials:
 9. Integration 
 
 Projects / Research: 
-1. Classical Computer Vision 
+1. [Classical Computer Vision](./CV_Techniques/cv_project.py)
 2. Machine Learning
 3. Julia Optimization 
