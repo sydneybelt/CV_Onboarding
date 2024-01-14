@@ -12,7 +12,7 @@ Tutorials:
 6. [Computer Vision Techniques](./CV_Techniques/cv_advanced.md)
 7. [Advanced Machine Learning](./Machine_Learning/ml_advanced.md)
 8. [Using Julia for ARV](./Julia/julia_advanced.md)
-9. Integration 
+9. [Integration](./Integration/integration.md) 
 
 Projects / Research: 
 1. [Classical Computer Vision](./CV_Techniques/cv_project.py)
